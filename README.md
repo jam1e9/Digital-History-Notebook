@@ -21,7 +21,9 @@ Now, let's begin documenting the pioneers of our field. You will create files fo
 Instructions:
 On your local machine, create a new file named ada-lovelace.md.
 In this file, research and write a short paragraph about her contributions to early computing. (Cite those sources!)
-Create a second new file named alan-turing.md.
+[Ada Lovelace](https://github.com/jam1e9/ada-lovelace.md)
+Create a second new file named alan-turing.md. 
+[Alan Turing](https://github.com/jam1e9/alan-turing.md)
 In this file, research and write a short paragraph about his contributions to modern computer science. (Cite those sources!)
 In this README.md file, add two hyperlinks below to your new files. The links must be named "Ada Lovelace" and "Alan Turing" and must lead to the corresponding files you just created. (Hint you will need to research how to put in a link in markdown)
 Use git add . to stage both new files.
