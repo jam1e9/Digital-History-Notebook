@@ -120,3 +120,11 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
 
+Timeline: Rise of The Internet
+  1969, ARPANET created, initially used for government use only to communicate
+  1969-1982, growth of users on ARPANET is slow because it's very private
+  1983, ARPANEt given to private sector, civillans gain access
+  1988, first major cyberattack called morris worm, we've learned alot from this and onward
+  1992, World Wide Web, Internet meets regular consumers
+  1992-1995, general shift towards more graphical interfaces
+  1995-2009, large scale growth, many popular websites released during this time.
