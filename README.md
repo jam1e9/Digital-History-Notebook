@@ -31,9 +31,9 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 Finally, use git push to publish your work to GitHub.
 Report Status:
 2.1: What two file names did you create?
-Answer:
+Answer: "alan-turing.md" and "ada-lovelace.md"
 2.2: What was your commit message?
-Answer:
+Answer: "Added pioneers Ada and Alan"
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
@@ -60,9 +60,9 @@ Use git commit -m "Added modern innovators" to save your work.
 Use git push to publish your changes.
 Report Status:
 4.1: What command did you use to save your changes to your local notebook?
-Answer:
+Answer: "git add ."
 4.2: What command did you use to publish your changes to the remote repository?
-Answer:
+Answer: "git push"
 Assignment 5: Peer Review
 Your classmates are now reviewing your work. A peer has left a suggestion for one of your files.
 Instructions:
@@ -75,9 +75,9 @@ Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 Report Status:
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer: It told me that my local machine was behind by 1 commit
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer: "git pull"
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
