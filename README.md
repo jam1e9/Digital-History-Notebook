@@ -130,3 +130,6 @@ Timeline: Rise of The Internet
   1992, World Wide Web, Internet meets regular consumers
   1992-1995, general shift towards more graphical interfaces
   1995-2009, large scale growth, many popular websites released during this time.
+
+  Final thoughts
+    I enjoyed this project suprisingly well. I learned quite a bit about important figures in computing.
