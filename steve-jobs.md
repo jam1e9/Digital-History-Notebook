@@ -6,3 +6,6 @@ Steve Jobs is known for founding Apple Inc. and revolutionizing user interface i
 		Acessed October 20th, 2025
 	https://computerhistory.org/blog/a-computer-for-the-rest-of-us/
 		Acessed October 20th, 2025
+
+
+Peer review: Could you add more details about the first Macintosh computer?
