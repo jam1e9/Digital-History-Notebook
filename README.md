@@ -89,9 +89,9 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
 Report Status:
 6.1: What was your commit message for this assignment?
-Answer:
+Answer: "Added Tim Berners-Lee"
 6.2: What command did you use to publish your work?
-Answer:
+Answer: "git push"
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
@@ -103,7 +103,7 @@ Commit this change directly on GitHub with the message: "Final thoughts on proje
 Return to your local machine's terminal and use git pull to get your concluding thoughts.
 Report Status:
 7.1: What command did you use to retrieve your final thoughts from GitHub?
-Answer:
+Answer: "git pull"
 High-Level Challenge: The Editing Mistake
 You were working on a file for an extra credit assignment but made a mistake. You committed the error to your local history, but you realize your mistake before pushing. You need to completely erase the commit so there is no record of the error.
 Instructions:
@@ -115,7 +115,7 @@ Now, find a way to undo the last commit and completely remove it from your local
 Once undone, verify that the commit is gone by using git log.
 Report Status:
 Extra Credit: What command(s) did you use to undo the commit, and why did you choose that particular method?
-Answer:
+Answer: "git reset --hard [commitHash]" on the commit PREVIOUS of the "Mistake commit"
 Submission Instructions
 When you have completed all assignments and answered all of the "Report Status" questions in your README.md file, you are ready to submit. Please submit the following to Google Classroom:
 A link to your public Digital-History-Notebook repository.
